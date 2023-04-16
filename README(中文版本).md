@@ -17,7 +17,7 @@ A. Pluchino. A. E. Biondo, A. Rapisarda: Talent vs Luck: the role of randomness 
 ### Other Adjust
 
 ## Experiments
-### Introduce
+### Introduce & Scenario1(Basic Concept)
 N_People = 1000  
 life_period = 80  
 
@@ -27,4 +27,7 @@ life_advance = 所有人一生的好壞運分配，大於0.9視為遇到好運�
 property1 = 所有人一生過完後分別的資產量  
 
 (下圖為所有人的才能與資產量的對應  
-![download](https://user-images.githubusercontent.com/77602608/232328186-e9352d48-035f-4bbe-8a76-a810a990bd0f.png)
+![download](https://user-images.githubusercontent.com/77602608/232328186-e9352d48-035f-4bbe-8a76-a810a990bd0f.png)  
+
+luck = 所有人的才能值和一生中遇到多少次好運壞運  
+luck[rich] = 擁有最多資產的人的一生  
