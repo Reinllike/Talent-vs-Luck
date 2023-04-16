@@ -40,7 +40,7 @@ luck[rich] = the life of the person with the highest amount of property.
 ### RepeatedlyTest
 Pick out the gift and properties of the richest person in each test.
 
-Repeat 1000 times with different luck thresholds (0.1 and 0.05), and the resulting means were 0.6973 and 0.6737, respectively.  
+Repeat 1000 times with different luck_threshold (0.1 and 0.05), and the resulting means were 0.6973 and 0.6737, respectively.  
 
 ![download](https://user-images.githubusercontent.com/77602608/232333071-76c7b559-7f08-4c7e-919c-d8d2ea238135.png)
 ![download](https://user-images.githubusercontent.com/77602608/232332819-1d80e7cd-1a18-41bc-a80f-c79283911e3a.png)  
